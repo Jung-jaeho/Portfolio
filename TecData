@@ -1,67 +1,14 @@
 [
 {
-"name":"kotlin",
-"image":"https://user-images.githubusercontent.com/31091115/64504975-2e84c700-d30d-11e9-9741-2a5c76d58c28.png",
+"name":"Django",
+"image":"https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiws6KggZblAhWjF6YKHZp6D8QQjRx6BAgBEAQ&url=https%3A%2F%2Fopentutorials.org%2Fcourse%2F3718&psig=AOvVaw3EbK0Lc4iDLiyOr9UUtAkx&ust=1570945252584135",
 "source": [
 {
 "data1":"",
-"data2":"https://github.com/zojae031/Portfolio/search?l=kotlin",
+"data2":"",
 "left":"",
-"right":"ExtraCode"
-}
-]
-},
-
-{
-"name":"rxjava2",
-"image":"https://user-images.githubusercontent.com/31091115/64486041-1e181200-d263-11e9-9eb6-b4e6397e5d2a.png",
-"source": [
-{
-"data1":"https://github.com/zojae031/Portfolio/blob/master/app/src/main/java/zojae031/portfolio/data/datasource/remote/RemoteDataSourceImpl.kt",
-"data2":"https://github.com/zojae031/Portfolio/blob/master/app/src/main/java/zojae031/portfolio/project/ProjectPresenter.kt",
-"left":"Single",
-"right":"Subscriber"
-}
-]
-},
-
-{
-"name":"MVP Pattern",
-"image":"https://user-images.githubusercontent.com/31091115/64010082-069aa400-cb54-11e9-887a-fd363ed72f92.png",
-"source": [
-{
-"data1":"https://github.com/zojae031/Portfolio/blob/master/app/src/main/java/zojae031/portfolio/profile/ProfilePresenter.kt",
-"data2":"https://github.com/zojae031/Portfolio/blob/master/app/src/main/java/zojae031/portfolio/profile/ProfileFragment.kt",
-"left":"Presenter",
-"right":"View"
-}
-]
-},
-
-{
-"name":"Repository Pattern",
-"image":"https://user-images.githubusercontent.com/31091115/64094022-46040300-cd95-11e9-9d38-59138f22d6d4.png",
-"source": [
-{
-"data1":"https://github.com/zojae031/Portfolio/blob/master/app/src/main/java/zojae031/portfolio/data/RepositoryImpl.kt",
-"data2":"https://github.com/zojae031/Portfolio/tree/master/app/src/main/java/zojae031/portfolio/data/datasource",
-"left":"RepositoryImpl",
-"right":"DataSource\n(local/remote)"
+"right":""
 }
 ]
 }
-,
-{
-"name":"MVVM Pattern",
-"image":"https://user-images.githubusercontent.com/31091115/65407343-31a7a900-de1d-11e9-8366-88b8a689c1ac.png",
-"source": [
-{
-"data1":"https://github.com/zojae031/GoogryAndroidArchitectureStudy/blob/class03/zojae031/zojae031/Project/app/src/main/java/study/architecture/coinjob/CoinViewModel.kt",
-"data2":"https://github.com/zojae031/GoogryAndroidArchitectureStudy/blob/class03/zojae031/zojae031/Project/app/src/main/res/layout/fragment_coin.xml",
-"left":"ViewModel",
-"right":"View"
-}
-]
-}
-
 ]
