@@ -1,9 +1,9 @@
 {
-"name" : "조재영",
-"age" : "1994-02-28",
+"name" : "정재호",
+"age" : "1994-11-15",
 "university" : "세종대학교",
 "major" : "컴퓨터공학",
-"military" : "군필(육군병장 만기전역)",
-"hobby":"운동(마샬아츠)",
-"additional":"https://youtu.be/fGG1N-4t4hE"
+"military" : "군필(공군병장 만기전역)",
+"hobby":"웹프로그래밍",
+"additional":""
 }
